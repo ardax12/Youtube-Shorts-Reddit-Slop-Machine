@@ -21,6 +21,8 @@ Automatically creates Youtube Shorts slop videos using:
 
 ---
 
+You can change the settings by editting the config section in the script.
+
 ## Requirements
 
 ### Python
