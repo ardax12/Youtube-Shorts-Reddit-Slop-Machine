@@ -1,0 +1,10 @@
+torch
+google-api-python-client
+google-auth-oauthlib
+google-auth
+tqdm
+numpy
+edge-tts
+moviepy
+stable-ts
+requests
